@@ -49,6 +49,25 @@ Chat-App-Redis/
 └── README.md               # Project documentation
 ```
 
+## 📸 Screenshots
+
+Here are some screenshots of the application in action:
+
+### Chat Interface
+![Chat Interface](screenshot/Screenshot%202025-07-26%20175714.png)
+
+### User List
+![User List](screenshot/Screenshot%202025-07-26%20175727.png)
+
+### Login Page
+![Login Page](screenshot/Screenshot%202025-07-26%20175756.png)
+
+### Register Page
+![Register Page](screenshot/Screenshot%202025-07-26%20175809.png)
+
+### Chat with User
+![Chat with User](screenshot/Screenshot%202025-07-26%20175836.png)
+
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
